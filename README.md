@@ -1,4 +1,4 @@
-# Hi it's Priyanka S
+# Hi it's me Priyanka S
 
 ##  MATLAB_Simulink_Circuits
 This repository showcases fundamental electrical circuit analysis projects using both MATLAB scripts and Simulink models.
@@ -9,9 +9,3 @@ I'm an Electrical and Electronics Engineering graduate passionate about circuit 
 This repository is part of my learning journey and engineering portfolio in MATLAB and Simulink.
 - MATLAB implementation for analytical solution
 - Simulink model for simulation and visualization
-
-## 📫 Contact
-
-For queries, feel free to reach out via:
-- LinkedIn: www.linkedin.com/in/priyanka-s-4b27a531b
-- Email: priyaselvaraj2431@gmail.com
