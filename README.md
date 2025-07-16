@@ -9,3 +9,4 @@ I'm an Electrical and Electronics Engineering graduate passionate about circuit 
 This repository is part of my learning journey and engineering portfolio in MATLAB and Simulink.
 - MATLAB implementation for analytical solution
 - Simulink model for simulation and visualization
+- PDF Formats of both MATLAB and Simulink projects
